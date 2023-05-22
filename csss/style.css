@@ -1,0 +1,207 @@
+body{
+background-image: url(../imageB.jpg);
+    background-size: cover;
+    position: static;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bd{
+    background-color: rgba(0, 0, 0, .7);
+}
+
+.ret{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+.yy{
+    text-align: center;
+}
+.ok{
+    text-align: center;
+    padding-bottom: 10px;
+    color: white;
+}
+.ko{
+text-align: center;
+color: white;
+padding-bottom: 100px;
+}
+.dd{
+    text-align: center;
+}
+.bn{
+    background-color: rgb(226, 15, 15);
+    height: 10px;
+    width: 200px; margin:0 auto -18px;
+}
+.qq{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid rgb(53, 13, 13); 
+}
+.pn{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid rgb(114, 14, 14); 
+}
+.nn{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid rgb(94, 9, 9); 
+}
+.vn{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid rgb(126, 17, 17); 
+}
+.vn{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid rgb(190, 52, 52); 
+}
+.card{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid transparent; 
+}
+.card-img-top{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border: 5px solid rgb(187, 104, 104); 
+}
+.logo{
+    width: 50px;
+
+}
+.fo{
+    color: white;
+    text-align: center;
+    background-color: #141313 ;
+    padding: 10px 0;
+
+    }
+    .reg{
+        height: 400px;
+        width:500px
+    }
+    h1{
+        text-align: center;
+        color: white;
+    }
+    p{
+        text-align: center;
+    }
+    .trait1{
+        color: orange;
+       margin: 5px;;
+        text-align: center;
+        
+    }
+    .trait2{
+        color: brown;
+        text-align: center;
+    }
+    .trait3{
+        color: blue;
+        text-align: center;
+    }
+    .trait4{
+        color: crimson;
+        text-align: center;
+    }
+    .trait5{
+        color: rgb(128, 51, 0);
+        text-align:center;
+    }
+    .cc {
+        color: white;
+    }
+    
+    .imageb {
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .salif {
+        background-color: rgb(255, 0, 251);
+        margin-top: 290px
+    }
+    
+    .is {
+        width: 5px;
+        height: 700px;
+        background-color: rgb(209, 12, 12);
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: -35px;
+    }
+    
+    
+    .is span {
+        display: block;
+        width: 50px;
+        height: 50px;
+        background-color: blue;
+        position: relative;
+        right: 25px;
+        top: 90px;
+        border-radius: 50px;
+    }
+    
+    .bon {
+        width: 25%;
+        height: 5px;
+        background-color: brown;
+        margin-left: 37%;
+        margin-bottom: -2%;
+        margin-top: -10%;
+    }
+    
+    .co {
+        width: 95%;
+        height: 2px;
+        background-color: brown;
+        margin: 17px auto -15px;
+    }
+    
+    .papa {
+    
+        width: 500px;
+        height: 400px;
+        margin: 25px;
+    
+    }
+    
+    
+    .mama {
+        width: 500px;
+        height: 400px;
+        margin: 25px;
+        margin-left: 80px;
+        margin-top: 200px;
+    }
+    .card-title{
+        text-align: center;
+    }
